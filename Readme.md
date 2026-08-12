@@ -33,5 +33,5 @@ Click on any topic to jump straight to it:
 
 ## 🧭 Maven Workflow
 
-![Maven Workflow](images/maven-workflow.png)
+![Maven Workflow](maven_workflow.png)
 
