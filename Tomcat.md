@@ -19,8 +19,9 @@ Some alternative tools are:
 
 The basic deployment flow is:
 
-![Tomcat deployment](tomcat.png)
-
+<p align="center">
+  <img src="tomcat.png" width="500">
+</p>
 # 🛠️ Steps to Deploy a .war File in Tomcat
 
 ## 1️⃣ Launch Two EC2 Instances
