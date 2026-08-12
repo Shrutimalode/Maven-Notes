@@ -21,10 +21,7 @@ Click on any topic to jump straight to it:
 | # | Topic | What it covers |
 |---|---|---|
 | 1 | 🔨 [Maven Fundamentals](01-maven-fundamentals.md) | Why we need build tools in the first place,What Maven is, POM, dependencies, plugins, Lifecycles, phases and Maven commands |
-| 2 | 📁 Maven Repositories | Local, central and remote repositories |
-| 3 | 🏗️ Creating Maven Projects | Maven archetype and project structure |
-| 4 | ☁️ Maven on AWS EC2 | Setting Maven up on a cloud instance |
-| 5 | 🔍 SonarQube | Code quality analysis |
+| 2 | 🔍 [SonarQube](Sonarqube.md) | Code quality analysis |
 | 6 | 🐱 Tomcat Deployment | Deploying the built artifact |
 
 ---
