@@ -29,5 +29,5 @@ Click on any topic to jump straight to it:
 ## 🧭 Maven Workflow
 
 <p align="center">
-  <img src="maven_workflow.png" width="500">
+  <img src="maven_workflow.png" width="600">
 </p>
