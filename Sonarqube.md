@@ -24,6 +24,8 @@ Launch **2 instances**:
 - **Storage:** 10–15 GB
 
 ```text
+
+
               AWS EC2
                  │
         ┌────────┴────────┐
@@ -34,6 +36,8 @@ Launch **2 instances**:
      t2.medium          t2.medium
         │                 │
       Ubuntu            Ubuntu
+
+
 2️⃣ Install Tools on Maven Instance
 
 Connect to the Maven instance and install the required tools.
@@ -44,12 +48,14 @@ sudo apt update
 sudo apt install openjdk-17-jdk -y
 
 sudo apt install maven -y
+
 3️⃣ Clone the Spring PetClinic Framework Repository
 
 Clone the spring-petclinic-framework repository into the Maven instance.
 
 Command
 git clone <repository-url>
+
 4️⃣ Generate the Build
 
 Get inside the project directory.
@@ -63,6 +69,7 @@ mvn package
 This will generate the project build/package.
 
 🔍 SonarQube Instance Setup
+
 5️⃣ Configure Port 9000
 
 Connect to the SonarQube instance and follow these steps:
@@ -81,6 +88,7 @@ Download SonarQube from the official website using the wget command.
 
 Command
 wget -O sonar.zip <sonarqube-download-url>
+
 6️⃣ Extract SonarQube and Install Java 17
 
 Install unzip and extract the downloaded SonarQube archive.
