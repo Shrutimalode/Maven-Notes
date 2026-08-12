@@ -19,21 +19,7 @@ Some alternative tools are:
 
 The basic deployment flow is:
 
-```text
-       🛠️ Maven Instance
-              │
-              │
-           .war file
-              │
-              │ SSH Connection
-              ▼
-       ⚙️ Tomcat Instance
-              │
-              ▼
-       Deploy .war file
-              │
-              ▼
-        🌐 Web Application
+![Tomcat deployment](tomcat.png)
 
 # 🛠️ Steps to Deploy a .war File in Tomcat
 
