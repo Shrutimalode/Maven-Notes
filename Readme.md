@@ -22,7 +22,7 @@ Click on any topic to jump straight to it:
 |---|---|---|
 | 1 | 🔨 [Maven Fundamentals](01-maven-fundamentals.md) | Why we need build tools in the first place,What Maven is, POM, dependencies, plugins, Lifecycles, phases and Maven commands |
 | 2 | 🔍 [SonarQube](Sonarqube.md) | Code quality analysis |
-| 6 | 🐱 Tomcat Deployment | Deploying the built artifact |
+| 3 | ⚙️ Tomcat Deployment | Deploying the built artifact |
 
 ---
 
